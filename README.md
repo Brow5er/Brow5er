@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Brow5er
 - 👀 I’m interested in Development Web
-- 🌱 I’m currently learning Html, CSS & Js
+- 🌱 I’m currently learning Html, CSS & Javascript
 
 <!---
 Brow5er/Brow5er is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
