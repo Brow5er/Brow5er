@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Brow5er
+- 👋 Hi, I’m Sandy. L
 - 👀 I’m interested in Development Web
 - 🌱 I’m currently learning Html, CSS & Javascript
 
